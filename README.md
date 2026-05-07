@@ -5,5 +5,6 @@ Conteúdo do primeiro commit.
 Longin cycle 1
 
 Conteúdo do segundo ciclo.
+Longin cycle 2
 
 Conteúdo do terceiro ciclo.
