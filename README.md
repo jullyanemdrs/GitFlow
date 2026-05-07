@@ -7,6 +7,7 @@ cadastro cycle 1
 
 Conteúdo do segundo ciclo.
 Longin cycle 2
+cadastro cycle 2
 
 Conteúdo do terceiro ciclo.
 Longin cycle 3
